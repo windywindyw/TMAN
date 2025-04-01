@@ -1,2 +1,2 @@
 # TMAN
-If the paper is accepted, we will make the code public as soon as possible.
+TMAN: A Triple Morphological Feature Attention Network for Fine-Grained Classification of Breast Ultrasound Images
